@@ -5,3 +5,6 @@
 [submodule "directAgeStd"]
 	path = directAgeStd
 	url = https://github.com/joeblackford/directagestd
+[submodule "epistandardiseR"]
+	path = epistandardiseR
+	url = https://github.com/joeblackford/epistandardiser
